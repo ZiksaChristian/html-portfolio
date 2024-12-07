@@ -1,2 +1,2 @@
 # html-portfolio
-Increasing my knowledge
+Increasing my skills
